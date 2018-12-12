@@ -1,0 +1,19 @@
+{
+    "name": "mysticzhong/sortarraybyascii",
+    "description": "Sort the array by one name according to the ascii code",
+    "authors": [
+        {
+            "name": "MysTic Zhong",
+            "email": "352306457@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "mysticzhong\\": "src/"
+        }
+    }
+}
