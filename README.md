@@ -1,8 +1,6 @@
 # sortarraybyascii
 
 - Sort the array by one name according to the ascii code
-- The source repositorie is my bitbucket url : https://bitbucket.org/mysticzhong/sortarraybyascii/
-
 
 **Install** 
 - composer require mysticzhong/sortarraybyascii
